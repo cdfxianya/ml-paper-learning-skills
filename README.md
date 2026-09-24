@@ -20,7 +20,7 @@
 在 Codex 中输入下面这段话，将“本仓库的 GitHub 地址”替换为实际地址：
 
 ```text
-使用 $skill-installer，从【本仓库的 GitHub 地址】安装两个 skill：
+使用 $skill-installer，从 https://github.com/cdfxianya/ml-paper-learning-skills 安装两个 skill：
 skills/ml-paper-study
 skills/model-deconstruction
 ```
@@ -82,4 +82,4 @@ python -B -m unittest discover -s skills/model-deconstruction/scripts -p test_gr
 
 ## 许可证
 
-此发布副本尚未指定许可证，由仓库维护者在发布时选择并添加 `LICENSE`。
+此发布副本使用MIT许可。
