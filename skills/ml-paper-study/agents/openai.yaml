@@ -1,0 +1,6 @@
+interface:
+  display_name: "ML 论文研读与汇报"
+  short_description: "通过作者与审稿人辩论、按需补讲和持久化记忆，帮助理解论文并自主汇报"
+  default_prompt: "使用 $ml-paper-study 帮我学习这篇 ML 论文，延续已有学习记忆，并帮助我达到能自主汇报和回答追问的程度。"
+policy:
+  allow_implicit_invocation: true

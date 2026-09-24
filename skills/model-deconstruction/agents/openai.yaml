@@ -1,0 +1,6 @@
+interface:
+  display_name: "拆解模式"
+  short_description: "从简化模型出发，把关键概念与推理逐步讲透，再讲回复杂模型，保留文献依据"
+  default_prompt: "使用 $model-deconstruction，从容易理解的简化形态逐步讲回这个模型；把关键概念和推理用具体例子讲透，少打断，保留文献依据和教学路线图。"
+policy:
+  allow_implicit_invocation: true
